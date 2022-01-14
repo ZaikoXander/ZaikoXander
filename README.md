@@ -1,16 +1,17 @@
 ## Fala fiote ta bão?
 <div align="center">
   <a href="https://github.com/ZaikoXander">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=great-gatsby"/>
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=great-gatsby"/>
+	</a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=html&sort=" target="_self" rel="next"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_self"></a>
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=css&sort=" target="_self" rel="next"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_self"></a>
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=javascript&sort=" target="_Self" rel="next"><img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_self"></a>
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=python&sort=" target="_self" rel="next"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_self"></a>
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_self" rel="next"><img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_self"></a>
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_self" rel="next"><img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" target="_self"></a>
 </div>
   
 ##
