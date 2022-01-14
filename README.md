@@ -18,6 +18,7 @@
 <div>
   <a href="https://twitter.com/Xandin_Dani" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.blockchain.com/btc/address/17s5t5JAkBZCJEczLGEkhdCCWXK5TkWnBM" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></img></a>
+  <a href="https://blockchair.com/pt/litecoin/address/LUFHdF8CkZb6zWrPKB3npqxgFEjrbCQkD1" target="_blank"><img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" target="_blank"></img></a>
 </div>
 
 #### [DISCORD]: Xandinho#8606
