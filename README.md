@@ -18,7 +18,14 @@
 <div>
   <a href="https://twitter.com/Xandin_Dani" target="_blank"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" target="_blank"></a>
   <a href="https://www.blockchain.com/btc/address/17s5t5JAkBZCJEczLGEkhdCCWXK5TkWnBM" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=black" target="_blank"></img></a>
-  <a href="https://blockchair.com/pt/litecoin/address/LUFHdF8CkZb6zWrPKB3npqxgFEjrbCQkD1" target="_blank"><img src="https://img.shields.io/badge/Litecoin-000?style=for-the-badge&logo=Litecoin&logoColor=A6A9AA" target="_blank"></img></a>
+  <a href="https://blockchair.com/pt/litecoin/address/LUFHdF8CkZb6zWrPKB3npqxgFEjrbCQkD1" target="_blank"><img src="https://img.shields.io/badge/Litecoin-000000?style=for-the-badge&logo=Litecoin&logoColor=A6A9AA" target="_blank"></img></a>
 </div><br>
 
-<img src="https://img.shields.io/badge/Discord%20:-000000?style=for-the-badge&logo=discord&logoColor=white" align="center" target="_blank"> **Xandinho#8606**
+<img src="https://img.shields.io/badge/Discord%20:-000000?style=for-the-badge&logo=discord&logoColor=7289DA" align="center" target="_blank"> **Xandinho#8606**
+
+## Sobre mim
+
+<p>Começando pelo começo&#x1F974;, podem me chamar de Zaiko.<br>Sempre fui aquele tipo de pessoa curiosa&#x1F914;: "Como isso funciona?", "Posso desmontar?", "É possível modificar?"...<br>Talvez seja por isso que gostei tanto e me interessei por tecnologia&#x1F4BB;, inicialmente comecei pelo Hardware mas hoje estou pelo Software&#x1F44C;.</p>
+<p>Já faz um tempo que comecei minha caminhada na programação e cada dia é um aprendizado novo, minha primeira linguagem foi Python&#x1F9E0;, pulei pro Front-End(HTML, CSS e JS)&#x1F60D; e já tive um contato com Node.Js&#x1F498; e C++.</p>
+
+<p>Atualmente tenho 18 anos e estou cursando Análise de Desenvolvimento de Sistemas na UNISANTOS, meu sonho é ser um grande programador independente.</p>
