@@ -11,6 +11,7 @@
   <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=javascript&sort=" target="_Self" rel="next"><img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_self"></a>
   <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=python&sort=" target="_self" rel="next"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_self"></a>
   <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=javascript&sort=" target="_Self" rel="next"><img align="center" alt="Node.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" target="_self"></a>
+  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=sql&sort="><img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </div>
   
 ##
@@ -21,7 +22,7 @@
   <a href="https://blockchair.com/pt/litecoin/address/LUFHdF8CkZb6zWrPKB3npqxgFEjrbCQkD1" target="_blank"><img src="https://img.shields.io/badge/Litecoin-000000?style=for-the-badge&logo=Litecoin&logoColor=A6A9AA" target="_blank"></img></a>
 </div><br>
 
-<img src="https://img.shields.io/badge/Discord%20:-000000?style=for-the-badge&logo=discord&logoColor=7289DA" align="center" target="_blank"> **Xandinho#8606**
+<a href="#"><img src="https://img.shields.io/badge/Discord%20:-000000?style=for-the-badge&logo=discord&logoColor=7289DA" align="center"></a> **```Xandinho#8606```**
 
 ## Sobre mim
 
