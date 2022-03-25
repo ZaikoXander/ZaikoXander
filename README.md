@@ -26,7 +26,7 @@
 
 ## Sobre mim
 
-<p>Começando pelo começo xD<!--&#x1F974;-->, podem me chamar de Zaiko.<br>Sempre fui aquele tipo de pessoa curiosa<!--&#x1F914;-->: "Como isso funciona?", "Posso desmontar?", "É possível modificar?"...<br>Talvez seja por isso que gostei tanto e me interessei por tecnologia<!--&#x1F4BB;-->, inicialmente comecei pelo Hardware mas hoje estou pelo Software<!--&#x1F44C;-->.</p>
+<p>Começando pelo começo xD<!--&#x1F974;-->, meu nome é Alex mas podem me chamar de Zaiko.<br>Sempre fui aquele tipo de pessoa curiosa<!--&#x1F914;-->: "Como isso funciona?", "Posso desmontar?", "É possível modificar?"...<br>Talvez seja por isso que gostei tanto e me interessei por tecnologia<!--&#x1F4BB;-->, inicialmente comecei pelo Hardware mas hoje estou pelo Software<!--&#x1F44C;-->.</p>
 <p>Já faz um tempo que comecei minha caminhada na programação e cada dia é um aprendizado novo, minha primeira linguagem foi Python<!--&#x1F9E0;-->, pulei pro Front-End(HTML, CSS e JS)<!--&#x1F60D;--> e já tive um contato com Node.Js<!--&#x1F498;-->, SQL e C++.</p>
 
 <p>Atualmente tenho 18 anos e estou cursando <em>Análise de Desenvolvimento de Sistemas</em> na <strong>FATEC</strong>, meu sonho é ser um grande programador independente.</p>
