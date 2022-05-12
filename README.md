@@ -28,6 +28,6 @@
 ## Sobre mim
 
 <p>Começando pelo começo xD, meu nome é <strong>Alex</strong> mas podem me chamar de Zaiko.<br>Sempre fui aquele tipo de pessoa curiosa: "Como isso funciona?", "Posso desmontar?", "É possível modificar?"...<br>Talvez seja por isso que gostei tanto e me interessei por tecnologia. Inicialmente comecei pelo Hardware mas hoje estou pelo Software.</p>
-<p>Já faz um tempo que comecei minha caminhada na programação e cada dia é um aprendizado novo, minha primeira linguagem foi Python, acabei pulando pro Front-End(HTML, CSS e JS) e hoje em dia estou estudando a chamada OmniStack(ReactJs, ReactNative e NodeJs) pela <strong>Rocketseat</strong>.</p>
+<p>Já faz um tempo que comecei minha caminhada na programação e cada dia é um aprendizado novo, minha primeira linguagem foi Python, acabei pulando pro <strong>Front-End</strong>(HTML, CSS e JS) e hoje em dia estou estudando a chamada <strong>OmniStack</strong>(ReactJs, ReactNative e NodeJs) através da <strong>Rocketseat</strong>.</p>
 
 <p>Atualmente tenho 18 anos e estou cursando <strong>Análise de Desenvolvimento de Sistemas</strong> na <strong>FATEC</strong>, meu sonho é ser um grande programador independente.</p>
