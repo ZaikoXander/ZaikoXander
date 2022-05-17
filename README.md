@@ -23,6 +23,7 @@
   <a href="https://blockchair.com/pt/litecoin/address/LUFHdF8CkZb6zWrPKB3npqxgFEjrbCQkD1" target="_blank"><img src="https://img.shields.io/badge/Litecoin-000000?style=for-the-badge&logo=Litecoin&logoColor=A6A9AA" target="_blank"></img></a>
 </div><br>
 
+<a href="https://www.codewars.com/users/ZaikoXander" target="_self" rel="next"><img align="center" alt="Python" src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars&logoColor=B1361E" target="_self"></a>
 <img src="https://img.shields.io/badge/Discord%20:-000000?style=for-the-badge&logo=discord&logoColor=7289DA" align="center"> **`Xandinho#8606`**
 
 ## Sobre mim
