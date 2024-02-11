@@ -30,7 +30,7 @@
 
 #### Meus projetos
 
-- 🤫 [Uma hora de silêncio interrompido](https://horadesilenciointerrompido.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/HoraDeSilencioInterrompido)
+- 🤫 [Uma hora de silêncio interrompido](https://horadesilenciointerrompido.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/HourOfInterruptedSilence)
 - ⚙️ [TechOs](https://techos.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/TechOs-web)
 - 💬 [XanderChat](https://xanderchat.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/XanderChat)
 - 🌓 [tailwind-darkmode](https://tailwind-darkmode-template.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/tailwind-darkmode)
