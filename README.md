@@ -10,6 +10,7 @@
   <img align="center" alt="nestjs icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="express icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="ruby on rails icon" height="42" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+  <img align="center" alt="playwright icon" height="42" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />    
   <img align="center" alt="jest icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="rspec icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
   <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=typescript&sort=" target="_self" rel="next"><img align="center" alt="typescript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_self" /></a>
