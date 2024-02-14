@@ -1,6 +1,6 @@
 ### Olá! Como vai? 👋
 
-<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" /></a>
+<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true" /></a>
 <a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=great-gatsby" /></a>
 <div style="display: inline-block;">
   <img align="center" alt="next.js icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -26,7 +26,7 @@
 - 👨‍💻️ Desenvolvedor Full-stack Junior na [Zimobi](https://www.zimobi.com.br/)
 - 📚 Estou no 5/6 semestre do curso superior tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
 - ✨ Minhas tecnologias favoritas são React e Typescript
-- 🌱 Quero estudar Ruby on Rails, Jotai, HTMX e Next.js 
+- 🌱 Quero estudar Ruby on Rails, Jotai ✅, HTMX e Next.js 
 - 🐍 Minha primeira linguagem de programação foi Python
 
 #### Meus projetos
