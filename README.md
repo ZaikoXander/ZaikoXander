@@ -26,14 +26,21 @@
 - 👨‍💻️ Desenvolvedor Full-stack Junior na [Zimobi](https://www.zimobi.com.br/)
 - 📚 Estou no 5/6 semestre do curso superior tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
 - ✨ Minhas tecnologias favoritas são React e Typescript
-- 🌱 Quero estudar Ruby on Rails, Jotai ✅, HTMX e Next.js 
+- 🌱 Quero estudar Ruby on Rails, HTMX e Next.js 
 - 🐍 Minha primeira linguagem de programação foi Python
 
 #### Meus projetos
 
+- 🎓📍🗺️ [SuaFatec](https://suafatec.vercel.app/)
+  - [🔗 Frontend](https://github.com/ZaikoXander/SuaFATEC-web)
+  - [🔗 Backend](https://github.com/ZaikoXander/SuaFatec-server)
 - 🤫 [Uma hora de silêncio interrompido](https://horadesilenciointerrompido.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/HourOfInterruptedSilence)
 - ⚙️ [TechOs](https://techos.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/TechOs-web)
 - 💬 [XanderChat](https://xanderchat.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/XanderChat)
 - 🌓 [tailwind-darkmode](https://tailwind-darkmode-template.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/tailwind-darkmode)
 - 🔒 [Login-System](https://login-system-xander.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/Login-System)
 - 🚀 [my-htmx-project](https://my-htmx-project.onrender.com/) - [🔗 Repo](https://github.com/ZaikoXander/my-htmx-project)
+
+#### Conquistas recentes
+
+- Aprendi e utilizei o Jotai 👻
