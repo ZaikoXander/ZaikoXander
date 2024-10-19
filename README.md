@@ -25,9 +25,8 @@
 - 👋 Me chamo Alex Daniel, tenho 20 anos
 - 👨‍💻️ Desenvolvedor Full-stack Junior na [Zimobi](https://www.zimobi.com.br/)
 - 📚 Estou no último semestre do curso superior tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
-- ✨ Minhas tecnologias favoritas são React, Vue.js e Typescript
-- 🌱 Quero estudar HTMX e Next.js
-- 🌱 Desejo me especializar cada vez mais no Ruby on Rails
+- ✨ Minhas tecnologias favoritas são React, Vue.js, Typescript e Rails.
+- 🌱 2 projetos **em construção**
 - 🐍 Minha primeira linguagem de programação foi Python
 
 #### Meus projetos
@@ -42,6 +41,6 @@
 - 🔒 [Login-System](https://login-system-xander.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/Login-System)
 - 🚀 [my-htmx-project](https://my-htmx-project.onrender.com/) - [🔗 Repo](https://github.com/ZaikoXander/my-htmx-project)
 
-#### Conquistas recentes
+---
 
-- Aprendi e utilizei o Jotai 👻
+⌛
