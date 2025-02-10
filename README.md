@@ -22,7 +22,7 @@
 
 #### Sobre mim
 
-- 👋 Me chamo Alex Daniel, tenho 20 anos
+- 👋 Me chamo Alex Daniel, tenho 21 anos
 - 👨‍💻️ Desenvolvedor Full-stack Junior na [Zimobi](https://www.zimobi.com.br/)
 - 📚 Estou no último semestre do curso superior tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
 - ✨ Minhas tecnologias favoritas são React, Vue.js, Typescript e Rails.
@@ -43,4 +43,4 @@
 
 ---
 
-⌛
+⏳
