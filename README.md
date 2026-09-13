@@ -1,7 +1,7 @@
 ### Olá! Como vai? 👋
 
-<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true" /></a>
-<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=great-gatsby" /></a>
+<!--<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true" /></a>
+<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=great-gatsby" /></a>-->
 <div style="display: inline-block;">
   <img align="center" alt="next.js icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="react icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -22,11 +22,11 @@
 
 #### Sobre mim
 
-- 👋 Me chamo Alex Daniel, tenho 21 anos
-- 👨‍💻️ Desenvolvedor Full-stack Junior na [Zimobi](https://www.zimobi.com.br/)
-- 📚 Estou no último semestre do curso superior tecnólogo em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
+- 👋 Me chamo Alex Daniel, tenho 22 anos
+- 👨‍💻️ Desenvolvedor Full-stack Junior com 3 anos de experiência
+- 📚 Formado em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
 - ✨ Minhas tecnologias favoritas são React, Vue.js, Typescript e Rails.
-- 🌱 2 projetos **em construção**
+<!-- - 🌱 2 projetos **em construção** -->
 - 🐍 Minha primeira linguagem de programação foi Python
 
 #### Meus projetos
@@ -40,7 +40,8 @@
 - 🌓 [tailwind-darkmode](https://tailwind-darkmode-template.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/tailwind-darkmode)
 - 🔒 [Login-System](https://login-system-xander.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/Login-System)
 - 🚀 [my-htmx-project](https://my-htmx-project.onrender.com/) - [🔗 Repo](https://github.com/ZaikoXander/my-htmx-project)
-
+<!--
 ---
 
 ⏳
+-->
