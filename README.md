@@ -56,9 +56,9 @@ Construo aplicações web com foco em produtos úteis, experiências claras e c�
 
 <div align="center">
   <a href="https://github.com/ZaikoXander">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub de Alex Daniel" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaikoXander&theme=github_dark" alt="Resumo do perfil GitHub de Alex Daniel" />
   </a>
   <a href="https://github.com/ZaikoXander">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Linguagens mais usadas por Alex Daniel" />
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZaikoXander&theme=github_dark" alt="Linguagens mais usadas por Alex Daniel" />
   </a>
 </div>
