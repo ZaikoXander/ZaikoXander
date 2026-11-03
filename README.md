@@ -1,47 +1,64 @@
-### Olá! Como vai? 👋
+<div align="center">
 
-<!--<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaikoXander&show_icons=true&theme=great-gatsby&include_all_commits=true" /></a>
-<a href="https://github.com/ZaikoXander"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaikoXander&layout=compact&langs_count=7&theme=great-gatsby" /></a>-->
-<div style="display: inline-block;">
-  <img align="center" alt="next.js icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="react icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=vue&sort=" target="_self" rel="next"><img align="center" alt="vuejs icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a>    
-  <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="nestjs icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="express icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="ruby on rails icon" height="42" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="playwright icon" height="42" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />    
-  <img align="center" alt="jest icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="rspec icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
-  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=typescript&sort=" target="_self" rel="next"><img align="center" alt="typescript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_self" /></a>
-  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=javascript&sort=" target="_self" rel="next"><img align="center" alt="javascript icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" target="_self" /></a>
-  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=ruby&sort=" target="_self" rel="next"><img align="center" alt="ruby icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" target="_self" /></a>
-  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=python&sort=" target="_self" rel="next"><img align="center" alt="python icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_self" /></a>
-  <a href="https://github.com/ZaikoXander?tab=repositories&q=&type=&language=java&sort=" target="_self" rel="next"><img align="center" alt="java icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" target="_self" /></a>
+# Olá, eu sou Alex Daniel 👋
+
+### Desenvolvedor Full-stack
+
+Construo aplicações web com foco em produtos úteis, experiências claras e código bem testado.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZaikoXander-181717?style=flat-square&logo=github)](https://github.com/ZaikoXander)
+
 </div>
 
-#### Sobre mim
+## Sobre mim
 
-- 👋 Me chamo Alex Daniel, tenho 22 anos
-- 👨‍💻️ Desenvolvedor Full-stack Junior com 3 anos de experiência
-- 📚 Formado em Análise e Desenvolvimento de Sistemas na FATEC de Praia Grande
-- ✨ Minhas tecnologias favoritas são React, Vue.js, Typescript e Rails.
-<!-- - 🌱 2 projetos **em construção** -->
-- 🐍 Minha primeira linguagem de programação foi Python
+- Desenvolvedor full-stack com 3 anos de experiência profissional na **Zimobi**.
+- Formado em Análise e Desenvolvimento de Sistemas pela FATEC de Praia Grande.
+- Tenho preferência por Ruby on Rails, Vue.js, TypeScript e React.
+- Python foi minha primeira linguagem de programação.
 
-#### Meus projetos
+## Tecnologias
 
-- 🎓📍🗺️ [SuaFatec](https://suafatec.vercel.app/)
-  - [🔗 Frontend](https://github.com/ZaikoXander/SuaFATEC-web)
-  - [🔗 Backend](https://github.com/ZaikoXander/SuaFatec-server)
-- 🤫 [Uma hora de silêncio interrompido](https://horadesilenciointerrompido.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/HourOfInterruptedSilence)
-- ⚙️ [TechOs](https://techos.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/TechOs-web)
-- 💬 [XanderChat](https://xanderchat.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/XanderChat)
-- 🌓 [tailwind-darkmode](https://tailwind-darkmode-template.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/tailwind-darkmode)
-- 🔒 [Login-System](https://login-system-xander.vercel.app/) - [🔗 Repo](https://github.com/ZaikoXander/Login-System)
-- 🚀 [my-htmx-project](https://my-htmx-project.onrender.com/) - [🔗 Repo](https://github.com/ZaikoXander/my-htmx-project)
-<!--
----
+<p align="center">
+  <img alt="Ruby on Rails" title="Ruby on Rails" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+  <img alt="Ruby" title="Ruby" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img alt="RSpec" title="RSpec" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
+  <img alt="Vue.js" title="Vue.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="JavaScript" title="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Next.js" title="Next.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="React" title="React" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="NestJS" title="NestJS" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img alt="Express" title="Express" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Playwright" title="Playwright" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img alt="Jest" title="Jest" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Python" title="Python" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>
 
-⏳
--->
+## Projetos em destaque
+
+- **Restaurante Mascote**
+  - [Frontend](https://github.com/ZaikoXander/mascote)
+  - [Backend](https://github.com/ZaikoXander/mascote-server)
+- **SuaFatec** · [Acessar projeto](https://suafatec.vercel.app/)
+  - [Frontend](https://github.com/ZaikoXander/SuaFATEC-web)
+  - [Backend](https://github.com/ZaikoXander/SuaFatec-server)
+- **Uma hora de silêncio interrompido** · [Acessar projeto](https://horadesilenciointerrompido.vercel.app/) · [Repositório](https://github.com/ZaikoXander/HourOfInterruptedSilence)
+- **TechOs** · [Acessar projeto](https://techos.vercel.app/) · [Repositório](https://github.com/ZaikoXander/TechOs-web)
+- **XanderChat** · [Acessar projeto](https://xanderchat.vercel.app/) · [Repositório](https://github.com/ZaikoXander/XanderChat)
+- **tailwind-darkmode** · [Acessar projeto](https://tailwind-darkmode-template.vercel.app/) · [Repositório](https://github.com/ZaikoXander/tailwind-darkmode)
+- **Login-System** · [Acessar projeto](https://login-system-xander.vercel.app/) · [Repositório](https://github.com/ZaikoXander/Login-System)
+- **my-htmx-project** · [Acessar projeto](https://my-htmx-project.onrender.com/) · [Repositório](https://github.com/ZaikoXander/my-htmx-project)
+
+## GitHub
+
+<div align="center">
+  <a href="https://github.com/ZaikoXander">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaikoXander&theme=github_dark" alt="Resumo do perfil GitHub de Alex Daniel" />
+  </a>
+  <a href="https://github.com/ZaikoXander">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZaikoXander&theme=github_dark" alt="Linguagens mais usadas por Alex Daniel" />
+  </a>
+</div>
